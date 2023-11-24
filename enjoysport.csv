@@ -1,5 +1,5 @@
-sky,airtemp,humidity,wind,water,forcast,enjoysport
-sunny,warm,normal,strong,warm,same,yes
-sunny,warm,high,strong,warm,same,yes
-rainy,cold,high,strong,warm,change,no
-sunny,warm,high,strong,cool,change,yes
+Example,Shape,Size,Color,Surface,Thickness,Target concept
+first,Circular,Large,Light,Smooth,Thick,yes
+second,Circular,Large,Light,Irregular,Thick,yes
+third,Oval,Large,Dark,Smooth,Thin,no
+fourth,Oval,Large,Light,Irregular,Thick,yes
